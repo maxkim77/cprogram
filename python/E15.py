@@ -1,0 +1,11 @@
+a = "Soojebi 123"
+print(a.upper())
+print(a.lower())
+print(a.isalnum())
+print(a.isalpha())
+print(a.isdecimal())
+print(a.isspace())
+print(a.split())
+print(a.split(sep='1'))
+str="1,2,3".split(",")
+print(str)
